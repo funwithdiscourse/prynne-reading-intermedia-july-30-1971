@@ -30,5 +30,3 @@ using HTML or markdown.  Do not modify this file above this line -->
 [^1]: Email message to author, November 19, 2022.
 [^2]: J. H. Prynne, "Mental Ears and Poetic Work," *Chicago Review* 55, no. 1 (Winter 2010): 126–157, [http://www.jstor.org/stable/25742582](http://www.jstor.org/stable/25742582 "JSTOR Stable URL").
 [^3]: Prynne, 129.
-
-***
