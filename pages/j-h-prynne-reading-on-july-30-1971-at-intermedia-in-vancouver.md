@@ -25,8 +25,8 @@ using HTML or markdown.  Do not modify this file above this line -->
 * The annotations tend towards two poles, “context” and "speculation,” although there is some overlap. The labels are perhaps self-explanatory, but “context” provides citations and the like, in order to enrich the recording, while “speculation” asks questions arising from the combination of the recording and contextual information.
 * References made to the text of particular poems in this recording are to their appearance in J. H. Prynne, *Poems* (Hexham, Northumberland: Bloodaxe Books, 2015).
 
-#### Work cited
-
 [^1]: Email message to author, November 19, 2022.
 [^2]: J. H. Prynne, "Mental Ears and Poetic Work," *Chicago Review* 55, no. 1 (Winter 2010): 126–157, [http://www.jstor.org/stable/25742582](http://www.jstor.org/stable/25742582 "JSTOR Stable URL").
 [^3]: Prynne, 129.
+
+***
