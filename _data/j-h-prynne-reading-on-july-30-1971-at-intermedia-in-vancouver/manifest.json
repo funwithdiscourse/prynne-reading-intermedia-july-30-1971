@@ -5,7 +5,7 @@
     "label": { "en": [ "J H Prynne Reading on July 30, 1971 at Intermedia in Vancouver" ] },
     "homepage": [
       {
-        "id": "https://www.archiveofthenow.org/authors/?i=77&amp;amp;amp;f=1764#1764",
+        "id": "https://www.archiveofthenow.org/authors/?i=77&amp;amp;amp;amp;f=1764#1764",
         "type": "Text",
         "label": { "en": [ "J H Prynne Reading on July 30, 1971 at Intermedia in Vancouver" ] },
         "format": "text/html"
@@ -25,14 +25,6 @@
         "duration": 3662.0,
         "annotations": [
           
-          {
-            "type": "AnnotationPage",
-            "id": "https://funwithdiscourse.github.io/prynne-reading-intermedia-july-30-1971/annotations/j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver-canvas-1-context.json",
-            "label": {
-              "none": ["Context"]
-            }
-          }
-          ,
           {
             "type": "AnnotationPage",
             "id": "https://funwithdiscourse.github.io/prynne-reading-intermedia-july-30-1971/annotations/j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver-canvas-1-speculation.json",
