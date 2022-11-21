@@ -1,0 +1,250 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://funwithdiscourse.github.io/prynne-reading-intermedia-july-30-1971/annotations/j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver-canvas-1-speculation.json",
+  "type": "AnnotationPage",
+  "label": "Speculation",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver-canvas-1-speculation-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The \"Pat\" in question here may be the poet <a href=\"https://en.wikipedia.org/wiki/Pat_Lowther\">Pat Lowther</a>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://funwithdiscourse.github.io/prynne-reading-intermedia-july-30-1971/j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "9.0,10.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver-canvas-1-speculation-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The audience laughs after Prynne finishes reading \"Thinking of you.\" It is a curious response, but somewhat understandable. The poem, from one angle creates a tension between language which, momentarily, seems silly: \"fat in the can,\" and more serious: \"the rancid power of the continuum.\" This tension seems heightened by the manner in which Prynne reads the poem. The slow and deliberate reading emphasises the strangeness of the diction. It seems too to be a way of reproducing the poem's line spacing as it appears in <em>Poems</em> (171).",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://funwithdiscourse.github.io/prynne-reading-intermedia-july-30-1971/j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "115.0,116.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver-canvas-1-speculation-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Prynne's phrasing here prompts the question of the extent to which he is still interested in these activities.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://funwithdiscourse.github.io/prynne-reading-intermedia-july-30-1971/j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "306.0,313.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver-canvas-1-speculation-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The first edition of this books is George Woodcock and Ivan Avakumović, <em>The Doukhobors</em> (Toronto: Oxford University Press, 1968). George Woodcock was, among many things, a noted anarchist thinker. It seems to me to that these remarks evidence Prynne's interest in anarchism (present at least in the late 1960s.) However, I am not aware of any major account of Prynne's poems that takes seriously the possibility of an anarchist influence. This is in spite of much attention to the politics of his poetry. The counterpoint is that Prynne is here not interested in anarchism, but in various expressions of Christianity; a point supported by his referring to Macarius towards the end of the recording.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://funwithdiscourse.github.io/prynne-reading-intermedia-july-30-1971/j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "317.0,319.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver-canvas-1-speculation-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sonically, this is quite a beautiful section of this recording. The faint presence of a wind instrument (I cannot tell whether it is a flute or a recorder) especially it's being played at night, in combination with the sounds of a child or children suggest to me a kind of community space that I am unused to poetry readings taking place in (which, either reflects poorly on me, or on poetry currently, and probably both.)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://funwithdiscourse.github.io/prynne-reading-intermedia-july-30-1971/j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "657.0,682.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver-canvas-1-speculation-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Prynne marks the quotation marks in the poem text by speaking \"quote\" and \"unquote\" (66). \"The Glaical Question Unsolved\" is one of a few poems by Prynne to provide a set of references at its end (which Prynne does not read out, or remark on in this recording.) The complicated status of quotation and reference in Prynne's poems is dramatised throughout this recording. Earlier it has been seen that Prynne has freely borrowed from sources, and (to an extent) integreated them into his thinking such that he no longer recognises them as foreign (but, of course, he may simply have forgotten; even then, \"simply\" obscures somewhat the intricacies of remembering and forgetting.) Later in the recording, during prefatory remarks to his reading of \"A Stone Called Nothing\" another source of silent quotation is explained, but simultaneously dismissed as not necessary knowledge for engaging with the poem. For more on this poem and its references see Thomas Roebuck and Matthew Sperling, \"'The Glacial Question, Unsolved': A Specimen Commentary on Lines 1-31,\" <em>Glossator</em> 2 (2010): 39–78, <a href=\"https://solutioperfecta.files.wordpress.com/2011/10/g2-roebuck-and-sperling.pdf\">https://solutioperfecta.files.wordpress.com/2011/10/g2-roebuck-and-sperling.pdf</a>.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://funwithdiscourse.github.io/prynne-reading-intermedia-july-30-1971/j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1215.0,1230.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver-canvas-1-speculation-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Prynne's discussion here of attention paid to the Lockheed F-104 Starfighter further confirms that an interest in military hardware is continuous over a long span of time, up until at least \"Her Weasels Wild Returning,\" published in 1994. \"Wild Weasel\" is a United States Airfoce codename for certain types of aircraft (see Keston Sutherland, \"Ethica Nullius\" in <em>Avant=post: The Avant-garde Under \"Post-\" Conditions</em>, ed. Louis Armand [Prague: Litteraria Pragensia, 2006], 253–254).",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://funwithdiscourse.github.io/prynne-reading-intermedia-july-30-1971/j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1733.0,1742.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver-canvas-1-speculation-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The silence, and then applause following this poem is, to my ears, the most striking moment in the recording. Yet, I am not sure what exactly prompts it. It could be that it has something in common with a reading Prynne gave of <em>Kazoo Dreamboats</em>, described by Luke Roberts (I quote at length):<br><br>\"I remember the night he read from it in an occupied lecture hall in Cambridge during the widespread student protests again tuition fees in 2010-11. The whole thing was amazingly weird, an audience equally puzzled and rapt, the atmosphere crackling with energy. Prynne was an enthusiastic supporter of the student occupiers, going out to fetch ice cream and snacks, writing letters against both the university bureaucracy and the government spokespersons for the free market in higher education. The context for the reading was appropriate. And I remember reading the poem avidly during that period and feeling—a feeling I think I shared with others—that I understood it completely. There was no need to itemise the discourses or to look anything up in the dictionary. The poem felt generous, optimistic, and open.\"<br><br>and<br><br>\"But <em>Kazoo Dreamboats</em>, at that time, was different. At the risk of overreaching: in the context of high social disturbance on a local, national, and international scale, the poem skipped right over the problem of comprehension and explication: it just made sense. And the sense it made was reliant, absolutely, on what gets called in critical shorthand <em>the social and historical context</em>. The poem was equal to the turbulence of the time, participating joyfully in the rupture of normal life.\"<br><br>If this were so, it would seem to require an almost an extreme act of the imagination, using some form of Prynne's \"mental ears\" gestured to above, in order to reconstruct the force of this moment such that the poem could be experienced as it was then, to that audience which we hear. A more mundane explanation, however, may be that the audience was, to loosely use a term from Erving Goffman, \"keyed\" to the significance of the poem by Prynne's introductory remarks, which introduce a possible whisper of some of the geopolitical tensions of the moment. It is worth noting too, that the Royal Canadian Air Force (now the Canadian Armed Forces) fleet contained a modified version of F-104 Starfighter at the time of this recording. Looked at this way the poem indexes a more \"local\" politics, rather than the distant history of some of the other poems in this reading, and so is perhaps more readily apprehended, or felt, by the audience. At the same time though, beneath even this explanation is some version of what Roberts describes. If Prynne's remarks do \"key\" the poem that process still involves an interaction with an ambient and ephemeral \"mood\" that would be difficult to reconstruct in the present.<br><br>Luke Roberts, “By Law in Sound: J. H. Prynne’s Recent Poetry,” review of Kazoo Dreamboats; Al-dente; Each to Each; Of the Abyss; Or Scissel; and Of Better Scrap, by J H Prynne, <em>Chicago Review</em>, July, 2019, <a href=\"https://www.chicagoreview.org/by-law-in-sound-j-h-prynnes-recent-poetry/\">https://www.chicagoreview.org/by-law-in-sound-j-h-prynnes-recent-poetry/</a>.<br>Erving Goffman, <em>Forms of Talk</em> (Phildaelphia: University of Pennsylvania Press, 1981).<br>\"Canadian Starfigher (Lockeheed),\" Government of Canada, last modified November 22, 2019, <a href=\"https://www.canada.ca/en/air-force/services/aircraft/canadair-starfighter.html\">https://www.canada.ca/en/air-force/services/aircraft/canadair-starfighter.html</a>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://funwithdiscourse.github.io/prynne-reading-intermedia-july-30-1971/j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2043.0,2057.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver-canvas-1-speculation-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "What is happening in this moment of silence? What is Prynne's reaction to the applause following the poem?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://funwithdiscourse.github.io/prynne-reading-intermedia-july-30-1971/j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2058.0,2065.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver-canvas-1-speculation-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I alluded to this moment above. From the various remarks on quotation in this recording, it is nearly possible to discern a schema for quotations, distributed between the poles of \"important\" and \"incidental.\" In any case, Prynne's comment here serves as useful corrective against getting lost the pursuit of references and the context they evoke. A poem being more than the sum of its references (and various other parts.) Although, again it is worth bearing in mind that the position implied here may have shifted in the interverning years.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://funwithdiscourse.github.io/prynne-reading-intermedia-july-30-1971/j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2538.0,2541.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver-canvas-1-speculation-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "To my ears, this is a strange and slightly uncomfortable moment. I find it difficult not to hear something accusatory in the laugh (or laughs) from the crowd. Similarly I hear a note of strain and uncertainty in Prynne's \"okay fellas.\" However, not knowing more, it is difficult to make any accurate assessments.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://funwithdiscourse.github.io/prynne-reading-intermedia-july-30-1971/j-h-prynne-reading-on-july-30-1971-at-intermedia-in-vancouver/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2542.0,2547.0"
+        }
+      }
+    }
+  ]
+}
